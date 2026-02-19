@@ -1,1 +1,2 @@
 # sales-managment-system
+ Developed a Sales Management System capable of efficiently managing and storing 10 lakh+ sales records with optimized data handling. Implemented advanced filtering features (by date, product, customer, and amount) to quickly search and analyze large sales datasets. Improved sales reporting and decision-making by enabling fast data retrieval and structured record management.
